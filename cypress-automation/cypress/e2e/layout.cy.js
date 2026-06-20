@@ -1,7 +1,7 @@
 import {
   expectBaseLayout,
   expectMainNavigation,
-} from '../support/assertions/common.assertions';
+} from '../support/common/common.assertions';
 
 const pages = [
   {
